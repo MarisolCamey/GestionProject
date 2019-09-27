@@ -13,7 +13,7 @@
   <div id="app"></div>
   <script>
   window.$docsify = {
-    repo: 'https://github.com/docsifyjs/docsify/issues/405',
+    repo: 'https://github.com/MarisolCamey/GestionProject.git',
     coverpage: true,
 	basePath: '../documentacion/',
 	 themeColor: '#8fd8d2',
